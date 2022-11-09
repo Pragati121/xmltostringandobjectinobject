@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Students>
-    <Student Id="0">
-        <FirstName>Robert</FirstName>
-        <Last>Jarman</Last>
-    </Student>
+        <firstname>Robert</firstname>
+        <lastname>Jarman</lastname>
 </Students>
+

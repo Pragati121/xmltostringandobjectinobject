@@ -1,11 +1,12 @@
-public class PojoClass  {
+package xmltostring;
+
+public class PojoClass{
     private String Firstname;
     private String Lastname;
 
     public String getFirstname() {
         return Firstname;
     }
-
     public void setFirstname(String firstname) {
         Firstname = firstname;
     }
@@ -14,7 +15,7 @@ public class PojoClass  {
         return Lastname;
     }
 
-    public void setLastanme(String lastname) {
+    public void setLastname(String lastname) {
         Lastname = lastname;
     }
 }

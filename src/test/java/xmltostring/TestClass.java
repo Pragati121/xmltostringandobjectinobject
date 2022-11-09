@@ -1,4 +1,8 @@
+package xmltostring;
+
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
+import xmltostring.PojoClass;
+
 import java.nio.file.Files;
 import java.nio.file.Paths;
 public class TestClass {
